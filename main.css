@@ -34,7 +34,7 @@ header h1{
 
 form {
     display: flex;
-    max-width: 640px;
+    max-width: 720px;
     width: 100%;
     justify-content: space-between;
     margin-bottom: 56px;
@@ -95,11 +95,3 @@ table td img {
 .reprovado {
     background-color: red;
 }
-
-
-
-
-
-
-
-
